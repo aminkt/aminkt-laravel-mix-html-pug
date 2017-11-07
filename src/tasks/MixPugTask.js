@@ -125,7 +125,7 @@ class MixPugTask extends Task {
     prepareAssets(src) {
         let file = new File(src);
         let folder = file.filePath.replace(this.src, '').replace(file.name(), '');
-        let output = path.join(this.dest, folder, file.nameWithoutExtension() + '.html');
+        let output = path.join(this.dest, file.nameWithoutExtension() + '.html');
         let asset = new File(output);
         Mix.addAsset(asset);
         return asset;
