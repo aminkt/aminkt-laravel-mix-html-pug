@@ -1,6 +1,6 @@
 {
   "name": "aminkt-laravel-mix-html-pug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make html page use laravel-mix and pugjs",
   "main": "src/index.js",
   "scripts": {
