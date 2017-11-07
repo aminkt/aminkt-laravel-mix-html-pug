@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Smilefish2/laravel-mix-html-pug.git"
+    "url": "git+https://github.com/aminkt/aminkt-laravel-mix-html-pug.git"
   },
   "keywords": [
     "laravel",
@@ -16,12 +16,12 @@
     "html",
     "pug"
   ],
-  "author": "JMJ<yang.jmj@gmail.com>",
+  "author": "JMJ<yang.jmj@gmail.com>, AminKt<Amin@keshavarz@pro>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Smilefish2/laravel-mix-html-pug/issues"
+    "url": "https://github.com/aminkt/aminkt-laravel-mix-html-pug/issues"
   },
-  "homepage": "https://github.com/Smilefish2/laravel-mix-html-pug#readme",
+  "homepage": "https://github.com/aminkt/aminkt-laravel-mix-html-pug#readme",
   "dependencies": {
     "laravel-mix": "^1.4.3",
     "mkdirp": "^0.5.1"
